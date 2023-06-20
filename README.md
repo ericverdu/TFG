@@ -1,2 +1,2 @@
 # TFG
-The data in TFG Data is needed in order to run the TFG.ipynb script. 
+The data in TFG DATA is needed in order to run the TFG.ipynb script. 
